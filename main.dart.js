@@ -50821,7 +50821,7 @@ l=A
 k=A
 s=3
 return A.A(t.wF.b(o)?o:A.dm(o,t.y),$async$wt)
-case 3:m.bp1(l.c1(k.aVz(c?"assets/images/img_about_icon.png":"assets/images/img_about_icon_dark.png"),null,50),"BNO Utility",p.c,A.a([A.bP(A.a([A.az(A.ae(a,B.t,t.J).ga_B(),null,null,null,null,null,null,null),B.IL,A.c1(A.fy(null,A.aVz("assets/images/bmc_button.png"),B.Z,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,new A.aOF(),null,null,null,null,null,null),40,null),B.IL,new A.V0("https://jimmyliblog.blogspot.com/",new A.aOG(),null)],n),B.v,B.o,B.w)],n),a)
+case 3:m.bp1(l.c1(k.aVz(c?"assets/images/img_about_icon.png":"assets/images/img_about_icon_dark.png"),null,50),"BNO Utility",p.c,A.a([A.bP(A.a([A.az(A.ae(a,B.t,t.J).ga_B(),null,null,null,null,null,null,null),B.IL,A.c1(A.fy(null,A.aVz("assets/images/bmc_button.png"),B.Z,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,new A.aOF(),null,null,null,null,null,null),40,null),B.IL,new A.V0("https://jimmymyapp.github.io/",new A.aOG(),null)],n),B.v,B.o,B.w)],n),a)
 return A.u(null,r)}})
 return A.v($async$wt,r)}}
 A.aOI.prototype={
