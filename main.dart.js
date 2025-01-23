@@ -48707,7 +48707,7 @@ A.rn.prototype={}
 A.Xh.prototype={
 h4(a,b){var s=null,r=t.G,q=A.vX(b.dN(A.Hl("themePrimary",B.bh),t.r3),new A.au_(),new A.au0(),new A.au1(),r,r)
 r=t.y
-return new A.F4(B.a4e,"BNO Utility",A.z9(s,A.aZK(A.vX(b.dN(A.uz("themeLight",!0),t._e),new A.au2(),new A.au3(),new A.au4(),r,r)?B.ar:B.aS,s,s,q),!0),B.TI,B.Xo,!1,s)}}
+return new A.F4(B.a4e,"BNO Calendar",A.z9(s,A.aZK(A.vX(b.dN(A.uz("themeLight",!0),t._e),new A.au2(),new A.au3(),new A.au4(),r,r)?B.ar:B.aS,s,s,q),!0),B.TI,B.Xo,!1,s)}}
 A.au_.prototype={
 $1(a){return a},
 $S:61}
@@ -50821,7 +50821,7 @@ l=A
 k=A
 s=3
 return A.A(t.wF.b(o)?o:A.dm(o,t.y),$async$wt)
-case 3:m.bp1(l.c1(k.aVz(c?"assets/images/img_about_icon.png":"assets/images/img_about_icon_dark.png"),null,50),"BNO Utility",p.c,A.a([A.bP(A.a([A.az(A.ae(a,B.t,t.J).ga_B(),null,null,null,null,null,null,null),B.IL,A.c1(A.fy(null,A.aVz("assets/images/bmc_button.png"),B.Z,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,new A.aOF(),null,null,null,null,null,null),40,null),B.IL,new A.V0("https://jimmymyapp.github.io/",new A.aOG(),null)],n),B.v,B.o,B.w)],n),a)
+case 3:m.bp1(l.c1(k.aVz(c?"assets/images/img_about_icon.png":"assets/images/img_about_icon_dark.png"),null,50),"BNO Calendar",p.c,A.a([A.bP(A.a([A.az(A.ae(a,B.t,t.J).ga_B(),null,null,null,null,null,null,null),B.IL,A.c1(A.fy(null,A.aVz("assets/images/bmc_button.png"),B.Z,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,new A.aOF(),null,null,null,null,null,null),40,null),B.IL,new A.V0("https://jimmymyapp.github.io/",new A.aOG(),null)],n),B.v,B.o,B.w)],n),a)
 return A.u(null,r)}})
 return A.v($async$wt,r)}}
 A.aOI.prototype={
