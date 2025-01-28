@@ -1,11 +1,11 @@
 {
-    "name": "bno_util",
-    "short_name": "bno_util",
+    "name": "hker_cal",
+    "short_name": "hker_cal",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "BNO Calendar",
+    "description": "HKer Calendar",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
