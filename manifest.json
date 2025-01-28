@@ -1,11 +1,11 @@
 {
-    "name": "hker_cal",
-    "short_name": "hker_cal",
+    "name": "hk51_cal",
+    "short_name": "hk51_cal",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "HKer Calendar",
+    "description": "HK 5+1 Calendar",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
