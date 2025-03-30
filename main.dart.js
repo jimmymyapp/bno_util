@@ -30540,7 +30540,7 @@ var $async$Qe=A.r(function(c,a0){if(c===1){o.push(a0)
 s=p}while(true)switch(s){case 0:e=null
 p=4
 s=7
-return A.z(b.nS(new A.jM(a,null,"HKer Calendar",null,null,"Europe/London",!1,!1,A.a([],t.Cv))),$async$Qe)
+return A.z(b.nS(new A.jM(a,null,"HKer Calendar","Created by HKer Calendar, do not remove!",null,"Europe/London",!1,!1,A.a([],t.Cv))),$async$Qe)
 case 7:e=a0
 s=8
 return A.z(b.yX(e,!0),$async$Qe)
@@ -120881,7 +120881,6 @@ B.aP=new A.o1(4,"start")
 B.o8=new A.o1(5,"end")
 B.TD=A.a(s([B.hR,B.o7,B.db,B.kw,B.aP,B.o8]),A.ay("F<o1>"))
 B.a7=A.a(s(["{1} {0}","{1} {0}","{1} {0}","{1} {0}"]),t.s)
-B.d4=A.a(s(["https://www.googleapis.com/auth/calendar.app.created","https://www.googleapis.com/auth/calendar.calendarlist.readonly","https://www.googleapis.com/auth/calendar.calendars"]),t.s)
 B.tU=A.a(s(["n","p","u","s","\u0161","p","s"]),t.s)
 B.TE=A.a(s(["I \u10d9\u10d5\u10d0\u10e0\u10e2\u10d0\u10da\u10d8","II \u10d9\u10d5\u10d0\u10e0\u10e2\u10d0\u10da\u10d8","III \u10d9\u10d5\u10d0\u10e0\u10e2\u10d0\u10da\u10d8","IV \u10d9\u10d5\u10d0\u10e0\u10e2\u10d0\u10da\u10d8"]),t.s)
 B.TF=A.a(s(["prije nove ere","nove ere"]),t.s)
@@ -121161,6 +121160,7 @@ B.jm=A.a(s(["\u0627\u0644\u0623\u062d\u062f","\u0627\u0644\u0627\u062b\u0646\u06
 B.W5=A.a(s(["antes de Cristo","despois de Cristo"]),t.s)
 B.v7=A.a(s(["EEEE d MMMM y","d MMMM y","d MMM y","d/M/yy"]),t.s)
 B.W6=A.a(s(["th\xe1ng 1","th\xe1ng 2","th\xe1ng 3","th\xe1ng 4","th\xe1ng 5","th\xe1ng 6","th\xe1ng 7","th\xe1ng 8","th\xe1ng 9","th\xe1ng 10","th\xe1ng 11","th\xe1ng 12"]),t.s)
+B.d4=A.a(s(["https://www.googleapis.com/auth/calendar.app.created","https://www.googleapis.com/auth/calendar.calendarlist.readonly"]),t.s)
 B.v8=A.a(s(["Jan","Feb","Mac","Apr","Mei","Jun","Jul","Ago","Sep","Okt","Nov","Des"]),t.s)
 B.W7=A.a(s(["J","F","M","E","M","J","J","A","S","O","N","D"]),t.s)
 B.W8=A.a(s(["\u0554\u0580\u056b\u057d\u057f\u0578\u057d\u056b\u0581 \u0561\u057c\u0561\u057b","\u0554\u0580\u056b\u057d\u057f\u0578\u057d\u056b\u0581 \u0570\u0565\u057f\u0578"]),t.s)
